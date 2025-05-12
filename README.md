@@ -70,3 +70,10 @@ lacrei-saude/
 └── package.json         # Dependências e scripts do projeto
 ```
 
+
+
+## Desenvolvido por:
+
+Elane Alencar - Software Developer
+- [Linkedin](https://www.linkedin.com/in/elanealencar)
+- [Porttólio](https://portfolio-elanealencar.vercel.app/)
