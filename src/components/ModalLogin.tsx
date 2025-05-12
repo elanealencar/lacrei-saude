@@ -22,11 +22,6 @@ const ModalContent = styled.div`
   border: 1px solid rgb(203, 203, 203);
 `;
 
-const ModalTitle = styled.h2`
-  margin-bottom: 24px;
-  color: #333333;
-`;
-
 const ModalButton = styled.a`
   display: block;
   margin: 8px 0;
